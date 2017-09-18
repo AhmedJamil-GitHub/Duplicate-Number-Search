@@ -1,0 +1,1 @@
+This is a sample documentation for duplicate number search.
